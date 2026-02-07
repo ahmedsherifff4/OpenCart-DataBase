@@ -16,7 +16,7 @@ The project is structured into two main components:
     * Covers tables such as `oc_customer`, `oc_customer_group`, `oc_address`, and more.
     * Includes scripts for testing integrity across various OpenCart extensions and banners.
 
-* **[opencart_testcase.csv](./opencart_testcase%20(1).xlsx%20-%20db_test_cases.csv)**:
+* **[opencart_testcase.csv](https://github.com/ahmedsherifff4/OpenCart-DataBase/blob/e1fe12ce36aaa9f90883932ddb4810767bd91a51/opencart_testcase%20(1).xlsx)**:
     * A comprehensive testing suite containing **201 Test Cases**.
     * Includes: Test Case IDs, Objectives, SQL Queries, Expected Results, and Status.
     * Focuses on data validation, null field detection, and schema integrity.
