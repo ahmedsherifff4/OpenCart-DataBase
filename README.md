@@ -25,7 +25,7 @@ The project is structured into two main components:
 
 * **Official Platform**: [OpenCart Website](https://www.opencart.com/)
 * **SQL Scripts**: [View opencart.sql](./opencart.sql)
-* **Test Cases**: [View db_test_cases.csv](./opencart_testcase%20(1).xlsx%20-%20db_test_cases.csv)
+* **Test Cases**: [View db_test_cases.csv](https://github.com/ahmedsherifff4/OpenCart-DataBase/blob/e1fe12ce36aaa9f90883932ddb4810767bd91a51/opencart_testcase%20(1).xlsx)
 
 ## How to Use 🚀
 
