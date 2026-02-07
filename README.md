@@ -32,5 +32,3 @@ The project is structured into two main components:
 1.  **For Database Management**: Execute the queries in `opencart.sql` within your MySQL environment (e.g., phpMyAdmin) to manage customer data or verify table structures.
 2.  **For Testing**: Follow the `opencart_testcase.csv` to run manual or automated checks against your database to ensure everything is functioning as expected.
 
----
-*Developed for OpenCart database administration and QA testing purposes.*
